@@ -1,7 +1,7 @@
 #
 # >>> Escriba el codigo del reducer a partir de este punto <<<
 #
-from sre_constants import MIN_REPEAT_ONE
+
 import sys
 
 #
